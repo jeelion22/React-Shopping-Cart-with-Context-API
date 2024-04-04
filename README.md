@@ -28,11 +28,11 @@ The below images are about how our web application looks like.
 
 If you just want the page, then you can visit the link above by a latest web browser.
 
-1. Clone this repo from ![here](https://github.com/jeelion22/Roadmap-Day28-React-Shopping-Cart-with-Context-API-Netlify-Deployment.git)
+1. Clone this repo from ![here](https://github.com/jeelion22/Roadmap-Day28-React-Shopping-Cart-with-Context-API-Netlify-Deployment)
 
 2. Navigate to the directory where you cloned
 
-3. First install `npm install`, dependencies will be installed automaticaly
+3. You need to install `npm` using `npm install` command, then dependencies will be installed automaticaly
 
 4. finally run development server `npm run dev`
 
