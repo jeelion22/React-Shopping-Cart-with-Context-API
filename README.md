@@ -1,8 +1,39 @@
-# React + Vite
+# React Router Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a shopping cart page where items are already in the cart. The states of the components where required are managed using react's context api with help of useContext hook.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Introduction](#introduction)
+- [Project Images](#Images)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+
+## Introduction
+
+It is a practice of how to use CONTEXT api of React in order to manage states of application's ui components. To avoid props drilling, it can be useful, more over it is a centralized place where all the data can be managed as well.
+
+[Netlify Deployment link](https://react-shopping-cart-context-api.netlify.app/)
+
+## Images
+
+The below images are about how our web application looks like.
+
+![Shopping Cart](/src/assets/shopping_cart_context1.png)
+
+![change of qty](/src/assets/shopping_cart_context2.png)
+
+## Installation
+
+No installation is required except a latest web browser.
+
+## Usage
+
+The webpage is a reference for how to handle state management using react context api
+
+## License
+
+MIT License
+
+---
