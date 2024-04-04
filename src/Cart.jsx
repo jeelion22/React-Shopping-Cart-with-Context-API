@@ -20,14 +20,14 @@ function Cart() {
   return (
     <div className="container">
       <div className="row">
-        <div className="col-md-11 bg-white text-center ms-2 mt-3 mb-3 pt-2 pb-2 rounded  ">
+        <div className="col-md-11 bg-white text-center ms-2 mt-3 mb-3 pt-2 pb-2 rounded ">
           <h1>Your Cart Items</h1>
         </div>
       </div>
       <div className="row">
-        <div className="col-md-7 col-sm-12  bg-white text-center rounded shadow-lg ">
+        <div className="col-md-7 ms-2 me- col-sm-12  bg-white text-center rounded shadow-lg">
           <div>
-            <table className="table table-sm table-borderless align-middle mt-3">
+            <table className="table table-sm mt-3 table-borderless align-middle ">
               <thead>
                 <tr>
                   <th scope="col">Product</th>
@@ -45,7 +45,7 @@ function Cart() {
           </div>
         </div>
         <div
-          className="col-md-4 ms-2 bg-white  border rounded   pt-3 justify-content-center"
+          className="col-md-4  ms-1 bg-white  border rounded   pt-3 justify-content-center"
           style={{ height: 300 }}
         >
           <div className="d-flex justify-content-between">
