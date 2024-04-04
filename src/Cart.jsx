@@ -19,9 +19,9 @@ function Cart() {
 
   return (
     <div className="container">
-      <div className="row">
-        <div className="col-md-11 bg-white text-center ms-2 mt-3 mb-3 pt-2 pb-2 rounded ">
-          <h1>Your Cart Items</h1>
+      <div className="row ">
+        <div className="col-md-11 bg-white text-center ms-2 mt-3 mb-3 pt-2 pb-2 rounded shadow-lg ">
+          <h1>Your Cart</h1>
         </div>
       </div>
       <div className="row">
