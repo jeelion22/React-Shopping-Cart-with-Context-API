@@ -1,4 +1,4 @@
-# React Router Task
+# React Shopping Cart With Context API
 
 This is a shopping cart page where items are already in the cart. The states of the components where required are managed using react's context api with help of useContext hook.
 
